@@ -8,7 +8,7 @@ Ready-to-play build is available at root. Python and Pygame are not required to 
 
 ## Running from Source
 
-To run the game from source, install Python 3.12, create a virtual environment, and install the dependencies:
+To run the game from source, install Python 3.12, create a virtual environment, and install the dependencies :
 
 ```powershell
 py -3.12 -m venv build\.venv
