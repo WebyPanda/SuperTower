@@ -4,7 +4,7 @@ SuperTower est un jeu d'action et de plateforme réalisé en Python avec Pygame.
 
 ## Télécharger et jouer
 
-Les versions prêtes à jouer sont disponibles dans la section [Releases](../../releases). Sous Windows, téléchargez `SuperTower.exe` depuis la version souhaitée et lancez-le. Python et Pygame ne sont pas nécessaires pour jouer avec l'exécutable.
+Les versions prêtes à jouer sont disponibles à la racine. Python et Pygame ne sont pas nécessaires pour jouer avec l'exécutable.
 
 ## Lancer depuis les sources
 
