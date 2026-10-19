@@ -25,7 +25,3 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\packaging\build_windows.ps
 ```
 
 Le script crée l'environnement de compilation dans `build\.venv`, vérifie les ressources du jeu et génère `SuperTower.exe` à la racine du dépôt.
-
-## Publier une version
-
-La publication d'un tag au format `v1.0.0` déclenche l'action GitHub, qui construit l'exécutable Windows et l'ajoute à une nouvelle Release.
